@@ -690,6 +690,7 @@ section {
 --------------------------------------------------------------*/
 .services .icon-box {
   padding: 30px;
+  height: 80%;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
